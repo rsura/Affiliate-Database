@@ -1,0 +1,6 @@
+Full, 123 Main Street, 76, Dr. Smith, 2323212, 1985, Law, 2117616, 72, 250000, 3
+FullTime, 300 N Cypress Street, 33, Alex Hart, 4084662123, 2008, The K, 2441232, Area Coordinator, 90000
+Associate, 100 Walnut Avenue, 40, Dr. Peters, 9211226651, 2010, Comp Sci, 2752615, 21, 90000, 2
+Assistant, 1 University Drive, 30, Dr. Anders, 8388761232, 2013, Comp Sci, 2856193, 11, 100000, 7
+Graduate, 200 Palm Avenue, 22, Sarah Ramirez, 4921216521, 2015, Second Year, Business, Comp Sci, 2361234, 2, Professor Lloyd
+PartTime, 789 E Sycamore Avenue, 21, Joaquin Valencia, 4082341234, 2017, Mail Room, 2325687, Mail Runner, 14.0
